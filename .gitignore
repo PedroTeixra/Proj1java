@@ -4,3 +4,4 @@
 *.jar
 *.war
 *.ear
+/PL5java/nbproject/private/
